@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Frontend projects in React.
-- 🌱 I’m currently learning software development.
-- 👯 I’m looking to collaborate on anything Frontend.
-- 🤔 I’m looking for help with understanding Data Structures and Algorithm.
-- 💬 Ask me about anything HTML.
-- 📫 How to reach me: pabloevra27@gmail.com
+- 🔭 I’m currently learning how to build projects using HTML, CSS and JavaScript.
+- 🌱 I’m currently learning JavaScript.
+- 👯 I’m looking forward to collaborate on Beginner-Friendly Frontend Projects.
+- 💬 Ask me anything Programming.
+- 📫 How to reach me: vyronevra27@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The word "oxymoron" is itself an oxymoron.
+- ⚡ Fun fact: Everytime you close a tag you didn't open, somewhere a developer cries 😭.
