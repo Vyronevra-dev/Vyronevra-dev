@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me anything Programming.
 - 📫 How to reach me: vyronevra27@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Everytime you close a tag you didn't open, somewhere a developer cries 😭.
+- ⚡ Fun fact: Everytime you close a tag you didn't open, somewhere a developer cries.
