@@ -17,3 +17,5 @@
 📫 How to reach me: vyronevra27@gmail.com
 
 ⚡ Fun fact: Everytime you close a tag you didn't open, somewhere a developer cries.
+
+![I'm Writting Codes As We Speak](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3am40YmthOXd0cTdxOXc1Z2I1NGM2MXZ2cWNmYmI0NGZvdmUwdmppbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif)
