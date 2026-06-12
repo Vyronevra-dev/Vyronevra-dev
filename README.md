@@ -1,6 +1,7 @@
 ## Hi there 👋 I am Vyron Evra Ojoy
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 🔭 I’m currently learning how to build projects using HTML, CSS and JavaScript.
 
 🚀 Deployed work: [Portfolio](https://vyron-evra-portfolio047.vercel.app) | [Ellington's Motors](https://ellingtons-motors.vercel.app)
