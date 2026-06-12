@@ -2,7 +2,7 @@
 
 🔭 I’m currently learning how to build projects using HTML, CSS and JavaScript.
 
-🚀 Deployed work: [Portfolio](https://vyron-evra-portfolio.vercel.app) | [Ellington's Motors](https://ellingtons-motors.vercel.app)
+🚀 Deployed work: [Portfolio](https://vyron-evra-portfolio047.vercel.app) | [Ellington's Motors](https://ellingtons-motors.vercel.app)
 
 📍 Based in Nairobi, Kenya.
 
