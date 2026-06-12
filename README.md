@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Vyron Evra Ojoy
 
+![I'm Coding As We Speak](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRtOWJsZGtreG1pYnV6ZndsMTN1OGVnY2h1cHVxbGN2azFsN29kaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
+
 🔭 I’m currently learning how to build projects using HTML, CSS and JavaScript.
 
 🚀 Deployed work: [Portfolio](https://vyron-evra-portfolio047.vercel.app) | [Ellington's Motors](https://ellingtons-motors.vercel.app)
