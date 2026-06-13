@@ -6,7 +6,7 @@
 
 🔭 I’m currently learning how to build projects using HTML, CSS and JavaScript.
 
-📚 Currently completing the **JavaScript Algorithms & Data Structures** certification on freeCodeCamp
+📚 Currently completing the **JavaScript Algorithms & Data Structures** certification on freeCodeCamp.
 
 🚀 Deployed work: [Portfolio](https://vyronevra.vercel.app) | [Ellington's Motors](https://ellingtons-motors.vercel.app)
 
@@ -16,7 +16,7 @@
 
 💬 Ask me anything Programming.
 
-📫 How to reach me: vyronevra27@gmail.com
+📫 How to reach me: [vyronevra27@gmail.com](mailto:vyronevra27@gmail.com)
 
 ⚡ Fun fact: Everytime you close a tag you didn't open, somewhere a developer cries.
 
