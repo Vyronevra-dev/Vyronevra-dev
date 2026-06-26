@@ -26,7 +26,7 @@
 
 <h2>My Certificates 🎓</h2>
 
-[![Responsive Web Design](https://i.ibb.co/4nn0MQ8P/Screenshot-2026-06-25-120245.png)](https://www.freecodecamp.org/certification/vyron-evra2007/responsive-web-design)
+[![Responsive Web Design](https://i.ibb.co/rRxcG1sT/Screenshot-2026-06-26-153617.png)](https://www.freecodecamp.org/certification/vyron-evra2007/responsive-web-design)
 
 ![Vyronevra-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vyronevra-dev&show_icons=true&theme=merko)
 
