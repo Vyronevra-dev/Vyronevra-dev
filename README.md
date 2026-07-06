@@ -28,6 +28,4 @@
 
 [![Responsive Web Design](https://i.ibb.co/rRxcG1sT/Screenshot-2026-06-26-153617.png)](https://www.freecodecamp.org/certification/vyron-evra2007/responsive-web-design)
 
-![Vyronevra-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vyronevra-dev&show_icons=true&theme=merko)
-
 ![I'm Writting Codes As We Speak](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3am40YmthOXd0cTdxOXc1Z2I1NGM2MXZ2cWNmYmI0NGZvdmUwdmppbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif)
