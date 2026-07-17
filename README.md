@@ -10,7 +10,7 @@
 
 📚 Currently completing the **JavaScript Algorithms & Data Structures** certification on freeCodeCamp.
 
-</> Deployed work: [Portfolio](https://vyronevra.vercel.app) | [Ellington's Motors](https://ellingtons-motors.vercel.app)
+</> Deployed work: [Portfolio](https://vyronevra.vercel.app) && [Ellington's Motors](https://ellingtons-motors.vercel.app) && [Ashbourne School of Technology](https://ashbourneschool.vercel.app)
 
 📍 Based in Nairobi, Kenya.
 
