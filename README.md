@@ -34,7 +34,7 @@
 
 <h2>My Certificate 🎓</h2>
 
-[![Responsive Web Design](https://i.ibb.co/ZRrrtDh5/free-Code-Camp-Responsive-Web-Certificate-1.png)](https://www.freecodecamp.org/certification/vyron-evra2007/responsive-web-design)
+[![Responsive Web Design](https://i.ibb.co/xKdktFHj/free-Code-Camp-Responsive-Web-Certificate.png)](https://www.freecodecamp.org/certification/vyron-evra2007/responsive-web-design)
 
 <br>
 
