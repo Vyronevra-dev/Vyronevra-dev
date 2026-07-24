@@ -22,6 +22,8 @@
 
 <br>
 
+<h2>Deployed Projects 🚀</h2>
+
 | Project                            | Description                   | Live Demo                                     |
 |------------------------------------|-------------------------------|-----------------------------------------------|
 | **Portfolio**                      | My Personal Portfolio         | [Visit→](https://vyronevra.vercel.app)        |
@@ -32,7 +34,7 @@
 
 <h2>My Certificate 🎓</h2>
 
-[![Responsive Web Design](https://i.ibb.co/rRxcG1sT/Screenshot-2026-06-26-153617.png)](https://www.freecodecamp.org/certification/vyron-evra2007/responsive-web-design)
+[![Responsive Web Design](https://i.ibb.co/ZRrrtDh5/free-Code-Camp-Responsive-Web-Certificate-1.png)](https://www.freecodecamp.org/certification/vyron-evra2007/responsive-web-design)
 
 <br>
 
