@@ -40,8 +40,8 @@
 
 <h2>Writing Codes As We Speak 🙃</h2>
 
-![I'm Writting Codes As We Speak](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3am40YmthOXd0cTdxOXc1Z2I1NGM2MXZ2cWNmYmI0NGZvdmUwdmppbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif)
+![I'm Writting Codes As We Speak](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)
 
 <div align="center">
-  <em>Building the web one pixel at a time</em>
+  <em>"Building the web one pixel at a time"</em>
 </div>
