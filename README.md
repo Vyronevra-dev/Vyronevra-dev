@@ -27,7 +27,7 @@
 | Project                            | Description                   | Live Demo                                     |
 |------------------------------------|-------------------------------|-----------------------------------------------|
 | **Portfolio**                      | My Personal Portfolio         | [Visit→](https://vyronevra.vercel.app)        |
-| **Ellington's Motors**             | A Car Dealership Website      | [Visit→](https://ellingtonsmotors.vercel.app) |
+| **Ellington's Motors**             | A Car Dealership Website      | [Visit→](https://ellingtons-motors.vercel.app) |
 | **Ashbourne School of Technology** | Educational Institute Website | [Visit→](https://ashbourneschool.vercel.app)  | 
 
 <br>
