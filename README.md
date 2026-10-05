@@ -27,8 +27,10 @@
 | Project                            | Description                   | Live Demo                                     |
 |------------------------------------|-------------------------------|-----------------------------------------------|
 | **Portfolio**                      | My Personal Portfolio         | [Visit→](https://vyronevra.vercel.app)        |
-| **Ellington's Motors**             | A Car Dealership Website      | [Visit→](https://ellingtons-motors.vercel.app) |
+| **Ellington's Motors**             | A Car Dealership Website      | [Visit→](https://ellingtons-motors.vercel.app)|
 | **Ashbourne School of Technology** | Educational Institute Website | [Visit→](https://ashbourneschool.vercel.app)  | 
+| **Mjamaa Bank**                    | An official bank website      | [Visit→](https://mjamaa-bank.vercel.app)      |
+| **Meloflix Music App**             | A PWA music player app        | [Visit→](https://meloflix.vercel.app)         |
 
 <br>
 
@@ -43,5 +45,5 @@
 ![I'm Writting Codes As We Speak](https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif)
 
 <div align="center">
-  <em>"Well.....Well.....Well.....If it ain't the client"</em>
+  <em>"Well.....Well.....Well.....If it ain't my client"</em>
 </div>
