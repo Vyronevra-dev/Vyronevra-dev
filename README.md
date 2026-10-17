@@ -31,6 +31,7 @@
 | **Ashbourne School of Technology** | Educational Institute Website | [Visit→](https://ashbourneschool.vercel.app)  | 
 | **Mjamaa Bank**                    | An official bank website      | [Visit→](https://mjamaa-bank.vercel.app)      |
 | **Meloflix Music App**             | A PWA music player app        | [Visit→](https://meloflix.vercel.app)         |
+| **Seed Inititative**               | A youth supportive website    | [Visit→](https://seedinitiative.vercel.app)   |
 
 <br>
 
