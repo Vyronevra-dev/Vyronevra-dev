@@ -1,5 +1,7 @@
 <h1 align="center">Why, Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Vyron Evra Ojoy</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=30&pause=1000&center=true&width=435&lines=Computer+Science+Student;At+Chuka+University;Builds+with+love+and+code)](https://git.io/typing-svg)
+
 <h2>Tech Stack</h2>
 
 <p>
